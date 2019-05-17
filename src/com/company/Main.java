@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    private static Map<Integer, Location> locations = new HashMap<Integer, Location>();
+    private static Map<Integer, Location> locations = new HashMap<>();
 
     public static void main(String[] args) {
         // write your code here
